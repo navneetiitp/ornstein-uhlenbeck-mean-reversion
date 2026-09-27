@@ -1,0 +1,2 @@
+asset_a,asset_b,train_end,validation_end,test_start,test_end,entry_z,exit_z,stop_z,rolling_window,refit_every,transaction_cost_bps_per_turnover,slippage_bps_per_turnover
+INFY.NS,TCS.NS,2021-12-31,2022-12-31,2023-01-01,2024-12-31,2.0,0.5,3.5,252,21,5.0,2.0
